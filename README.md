@@ -1,5 +1,6 @@
 # Tarea-DM
 Tarea mediante la cual se selecciona un algoritmo de machine learning, se explica y se muestra un ejemplo
+Link colab (es el mismo código que el .ipynb): https://colab.research.google.com/drive/1flwpbW7IaZtEhNomH1cqOh8DmlPWe6mY#scrollTo=qN8dW1mbRrN1
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
